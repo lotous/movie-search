@@ -1,0 +1,34 @@
+{{!< index}}
+
+{{#contentFor "styles"}}
+    <!-- Styles Section   -->
+{{/contentFor}}
+
+
+ 	<h1>{{title}}</h1>
+	<table border = "2">
+	  <tr>
+	    <th>Year</th>
+	    <th>Name</th>
+	    <th>Cover</th>
+	    <th>IMDB Link</th>
+	  </tr>
+    {{#if movies.Search}}
+         {{#each movies.Search}}
+          <tr>
+            <td>{{this.Year}}</td>
+            <td>{{this.Title}}</td>
+            <td><img src="{{this.Poster}}" alt=""></td>
+            <td><a href="https://www.imdb.com/title/{{this.imdbID}}">View on IMDB</a></td>
+          </tr>
+         {{/each}}
+    {{/if}}
+	</table>
+	<br/>
+ 	<a href="/">Search Again!</a>
+
+
+{{#contentFor "script"}}
+    <!-- Script Section   -->
+{{/contentFor}}
+
