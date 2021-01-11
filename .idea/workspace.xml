@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5a6f3d8-8566-4b39-9690-485cb3a67363" name="Default Changelist" comment="" />
+    <list default="true" id="f5a6f3d8-8566-4b39-9690-485cb3a67363" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/results.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/results.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/search.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/search.hbs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mtWPjjPCfn6x8NmuqgRBpNquy5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610313346895</updated>
-      <workItem from="1610313349762" duration="8488000" />
+      <workItem from="1610313349762" duration="10598000" />
     </task>
     <servers />
   </component>
@@ -43,6 +55,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="509" y="260" key="Github.ShareDialog" timestamp="1610323048697">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="509" y="260" key="Github.ShareDialog/0.0.1280.728@0.0.1280.728" timestamp="1610323048697" />
+    <state x="428" y="61" key="Github.UntrackedFilesDialog" timestamp="1610323059851">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="428" y="61" key="Github.UntrackedFilesDialog/0.0.1280.728@0.0.1280.728" timestamp="1610323059851" />
     <state width="1258" height="174" key="GridCell.Tab.0.bottom" timestamp="1610313504872">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
